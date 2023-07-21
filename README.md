@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mooud Mohammady</h1>
 <h3 align="center">A passionate fullstack developer from Iran</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mooudmohammady" alt="mooudmohammady" /></a> </p>
 
 - 🔭 I’m currently working on **Reactjs & ReactNative & Nextjs & Expressjs & Nodejs**
 
