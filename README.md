@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mooud Mohammady</h1>
 <h3 align="center">A passionate fullstack developer from Iran</h3>
 
-- 🔭 I’m currently working on **Reactjs & ReactNative & Nextjs & Expressjs & Nodejs**
+- 🔭 I’m currently working on **New framwork for backend | Reactjs & ReactNative & Nextjs & Expressjs & Nodejs**
 
-- 🌱 I’m currently learning **Django & Image processing with Python**
+- 🌱 I’m currently learning **AI & Ci/Cd & code patterns**
 
 - 👯 I’m looking to collaborate on [Deno IDE](https://github.com/MooudMohammady/electron-deno-IDE)
 
 - 💬 Ask me about **Reactjs & Python & ReactNative & Nextjs & Expressjs & Nodejs**
 
-- 📫 How to reach me **mooudgamer@gmail.com**
+- 📫 How to reach me **MooudMohammadi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 My website : https://mooudmohammadi.vercel.app/
