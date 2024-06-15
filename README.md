@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mooud Mohammady</h1>
 <h3 align="center">A passionate fullstack developer from Iran</h3>
 
-- 🔭 I’m currently working on **New framwork for backend | Reactjs & ReactNative & Nextjs & Expressjs & Nodejs**
+- 🔭 I’m currently working on **Three.js | Reactjs & ReactNative & Nextjs & Expressjs & Nodejs**
 
-- 🌱 I’m currently learning **AI & Ci/Cd & code patterns**
+- 🌱 I’m currently learning **AI & Ci/Cd & design patterns**
 
 - 👯 I’m looking to collaborate on [Ecommerce Backend]([https://github.com/MooudMohammady/endrun](https://github.com/MooudMohammady/Ecommerce-Backend))
 
