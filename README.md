@@ -43,7 +43,3 @@ My website : https://webclare.ir
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MooudMohammady&icon=0&color=3)](https://visitcount.itsvg.in)
-Thu Jun 20 00:35:40 UTC 2024
-Thu Jun 20 00:40:35 UTC 2024
-Fri Jun 21 00:35:37 UTC 2024
-Fri Jun 21 00:40:47 UTC 2024
