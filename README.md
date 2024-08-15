@@ -43,9 +43,3 @@ My website : https://webclare.ir
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MooudMohammady&icon=0&color=3)](https://visitcount.itsvg.in)
-Tue Aug 13 00:39:16 UTC 2024
-Tue Aug 13 00:44:50 UTC 2024
-Wed Aug 14 00:38:38 UTC 2024
-Wed Aug 14 00:44:05 UTC 2024
-Thu Aug 15 00:37:10 UTC 2024
-Thu Aug 15 00:42:15 UTC 2024
