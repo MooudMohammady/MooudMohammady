@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [Ecommerce Backend]([https://github.com/MooudMohammady/endrun](https://github.com/MooudMohammady/Ecommerce-Backend))
 
-- 💬 Ask me about **Reactjs & Python & ReactNative & Nextjs & Expressjs & Nodejs**
+- 💬 Ask me about **Reactjs & Next.js & TypeScript & ReactNative & Nodejs**
 
 - 📫 How to reach me **MooudMohammadi@gmail.com**
 
@@ -43,25 +43,3 @@ My website : https://webclare.ir
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MooudMohammady&icon=0&color=3)](https://visitcount.itsvg.in)
-Wed Sep 25 00:43:35 UTC 2024
-Wed Sep 25 00:51:00 UTC 2024
-Thu Sep 26 00:42:33 UTC 2024
-Thu Sep 26 00:49:47 UTC 2024
-Fri Sep 27 00:42:57 UTC 2024
-Fri Sep 27 00:50:22 UTC 2024
-Mon Sep 30 00:44:46 UTC 2024
-Mon Sep 30 00:52:20 UTC 2024
-Tue Oct  1 00:48:39 UTC 2024
-Tue Oct  1 00:55:21 UTC 2024
-Wed Oct  2 00:42:59 UTC 2024
-Wed Oct  2 00:50:16 UTC 2024
-Thu Oct  3 00:43:00 UTC 2024
-Thu Oct  3 00:50:08 UTC 2024
-Fri Oct  4 00:42:59 UTC 2024
-Fri Oct  4 00:51:38 UTC 2024
-Mon Oct  7 00:44:52 UTC 2024
-Mon Oct  7 00:52:16 UTC 2024
-Tue Oct  8 00:42:49 UTC 2024
-Tue Oct  8 00:50:11 UTC 2024
-Wed Oct  9 00:42:46 UTC 2024
-Wed Oct  9 00:49:57 UTC 2024
