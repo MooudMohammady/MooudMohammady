@@ -1,3 +1,4 @@
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"/>
 <h1 align="center">Hi 👋, I'm Mooud Mohammady</h1>
 <h3 align="center">A passionate fullstack developer from Iran</h3>
 
@@ -43,11 +44,3 @@ My website : https://mooudmohammadi.vercel.app/en
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MooudMohammady&icon=0&color=3)](https://visitcount.itsvg.in)
-Mon Dec 16 00:51:13 UTC 2024
-Mon Dec 16 00:57:38 UTC 2024
-Tue Dec 17 00:48:34 UTC 2024
-Tue Dec 17 00:55:38 UTC 2024
-Wed Dec 18 00:46:07 UTC 2024
-Wed Dec 18 00:53:20 UTC 2024
-Thu Dec 19 00:46:41 UTC 2024
-Thu Dec 19 00:53:52 UTC 2024
