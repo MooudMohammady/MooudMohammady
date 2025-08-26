@@ -44,12 +44,3 @@ My website : https://mooudmohammadi.vercel.app/en
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MooudMohammady&icon=0&color=3)](https://visitcount.itsvg.in)
-Wed Aug 20 00:57:04 UTC 2025
-Thu Aug 21 00:49:45 UTC 2025
-Thu Aug 21 00:56:18 UTC 2025
-Fri Aug 22 00:51:07 UTC 2025
-Fri Aug 22 00:57:21 UTC 2025
-Mon Aug 25 00:53:22 UTC 2025
-Mon Aug 25 00:59:34 UTC 2025
-Tue Aug 26 00:51:26 UTC 2025
-Tue Aug 26 00:58:07 UTC 2025
